@@ -26,7 +26,7 @@ POST /api/storage/create-record
 // Request Body
 
 {
-  "TaskName": "The new task for test",
+  "TaskName": "The new task for test.",
   "Assignee": "Darshana",
   "FileName": "flow.jpg",
   "Base64File": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAA...",
